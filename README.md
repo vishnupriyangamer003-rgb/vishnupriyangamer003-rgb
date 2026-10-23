@@ -2,7 +2,7 @@
      VISHNUPRIYAN (gamer003-rgb) — PRO GAMING CYBER-HUD PROFILE README
      Dual-Theme Engine: Auto-adapts to System Dark / Light Theme on GitHub
      Aesthetic: RGB Cyberpunk Gaming HUD & Cleanroom Mecha Esports Architecture
-     Zero Broken Images: 100% High-Availability Raw SVGs & Theme Selectors
+     Zero Duplicate Images: 100% Single-Instance Native Picture Elements
      ========================================================================== -->
 
 <!-- Dual-Theme Animated Cyberpunk RGB Battlestation Header Banner -->
@@ -76,13 +76,19 @@ vishnupriyan@battlestation:~$ ./initialize_profile --gamer-mode=rgb
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/gamer_hud_card_dark.svg#gh-dark-mode-only" width="100%" alt="Gamer HUD Telemetry Card" />
-<img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/gamer_hud_card_light.svg#gh-light-mode-only" width="100%" alt="Gamer HUD Telemetry Card" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/gamer_hud_card_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/gamer_hud_card_light.svg">
+  <img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/gamer_hud_card_dark.svg" width="100%" alt="Gamer HUD Telemetry Card">
+</picture>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_guardian.jpg#gh-dark-mode-only" width="310" alt="Celestial Cyber Yali Guardian" style="border-radius: 12px; max-width: 100%;" />
-<img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_hologram_light.jpg#gh-light-mode-only" width="310" alt="Celestial Cyber Yali Guardian" style="border-radius: 12px; max-width: 100%;" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_guardian.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_hologram_light.jpg">
+  <img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_guardian.jpg" width="310" alt="Celestial Cyber Yali Guardian" style="border-radius: 12px; max-width: 100%;">
+</picture>
 
 </td>
 </tr>
@@ -124,13 +130,19 @@ I'm a full-stack web developer and software architect with a gamer's passion for
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_animated_hud.svg#gh-dark-mode-only" width="100%" alt="Animated Yali Radar HUD" />
-<img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_animated_hud_light.svg#gh-light-mode-only" width="100%" alt="Animated Yali Radar HUD" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_animated_hud.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_animated_hud_light.svg">
+  <img src="https://raw.githubusercontent.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb/main/assets/images/yali_animated_hud.svg" width="100%" alt="Animated Yali Radar HUD">
+</picture>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=13&amp;pause=900&amp;color=00F0FF&amp;lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online.#gh-dark-mode-only" alt="BotOS Terminal Output" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=13&amp;pause=900&amp;color=0284C7&amp;lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online.#gh-light-mode-only" alt="BotOS Terminal Output" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=13&amp;pause=900&amp;color=00F0FF&amp;lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=13&amp;pause=900&amp;color=0284C7&amp;lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=13&amp;pause=900&amp;color=00F0FF&amp;lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online." alt="BotOS Terminal Output">
+</picture>
 
 </td>
 </tr>
@@ -149,8 +161,11 @@ I'm a full-stack web developer and software architect with a gamer's passion for
 
 <!-- Dual-Theme Vector Tech Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode&amp;theme=dark#gh-dark-mode-only" alt="Developer Weapon Inventory" />
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode&amp;theme=light#gh-light-mode-only" alt="Developer Weapon Inventory" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode&amp;theme=dark" alt="Developer Weapon Inventory">
+  </picture>
 </p>
 
 #### 🗡️ Primary Weapons (Backend & Architecture)
@@ -223,15 +238,17 @@ An autonomous action engine and tool-control layer for **Atom AI**. Designed to 
 ## 📊 GitHub Live Telemetry
 
 <p align="center">
-  <a href="https://github.com/vishnupriyangamer003-rgb">
-    <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=00F0FF&amp;text_color=E2E8F0&amp;icon_color=FF007F&amp;border_color=00F0FF&amp;border_radius=12&amp;rank_icon=github#gh-dark-mode-only" height="195" alt="GitHub Account Statistics" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=0284C7&amp;text_color=0F172A&amp;icon_color=0284C7&amp;border_color=0284C7&amp;border_radius=12&amp;rank_icon=github#gh-light-mode-only" height="195" alt="GitHub Account Statistics" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=00F0FF&amp;text_color=E2E8F0&amp;icon_color=FF007F&amp;border_color=00F0FF&amp;border_radius=12&amp;rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=0284C7&amp;text_color=0F172A&amp;icon_color=0284C7&amp;border_color=0284C7&amp;border_radius=12&amp;rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&amp;show_icons=true&amp;bg_color=00000000&amp;title_color=00F0FF&amp;text_color=E2E8F0&amp;icon_color=FF007F&amp;border_color=00F0FF&amp;border_radius=12&amp;rank_icon=github" height="195" alt="GitHub Account Statistics">
+  </picture>
   &nbsp;&nbsp;
-  <a href="https://github.com/vishnupriyangamer003-rgb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&amp;layout=compact&amp;langs_count=5&amp;bg_color=00000000&amp;title_color=00F0FF&amp;text_color=E2E8F0&amp;border_color=00F0FF&amp;border_radius=12#gh-dark-mode-only" height="195" alt="Most Used Languages" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&amp;layout=compact&amp;langs_count=5&amp;bg_color=00000000&amp;title_color=0284C7&amp;text_color=0F172A&amp;border_color=0284C7&amp;border_radius=12#gh-light-mode-only" height="195" alt="Most Used Languages" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&amp;layout=compact&amp;langs_count=5&amp;bg_color=00000000&amp;title_color=00F0FF&amp;text_color=E2E8F0&amp;border_color=00F0FF&amp;border_radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&amp;layout=compact&amp;langs_count=5&amp;bg_color=00000000&amp;title_color=0284C7&amp;text_color=0F172A&amp;border_color=0284C7&amp;border_radius=12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&amp;layout=compact&amp;langs_count=5&amp;bg_color=00000000&amp;title_color=00F0FF&amp;text_color=E2E8F0&amp;border_color=00F0FF&amp;border_radius=12" height="195" alt="Most Used Languages">
+  </picture>
 </p>
 
 <!-- Dual-Theme Animated Cyber Laser Divider -->
@@ -289,10 +306,11 @@ An autonomous action engine and tool-control layer for **Atom AI**. Designed to 
 ### 🔥 Daily Commit Streak
 
 <p align="center">
-  <a href="https://github.com/vishnupriyangamer003-rgb">
-    <img src="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&amp;theme=dark&amp;background=00000000&amp;border=00F0FF&amp;stroke=00F0FF&amp;ring=00F0FF&amp;fire=FF007F&amp;currStreakNum=00F0FF&amp;sideNums=E2E8F0&amp;currStreakLabel=00F0FF&amp;sideLabels=94A3B8&amp;dates=64748B&amp;border_radius=12#gh-dark-mode-only" width="100%" alt="GitHub Streak Statistics" />
-    <img src="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&amp;theme=light&amp;background=00000000&amp;border=0284C7&amp;stroke=0284C7&amp;ring=0284C7&amp;fire=0284C7&amp;currStreakNum=0284C7&amp;sideNums=0F172A&amp;currStreakLabel=0284C7&amp;sideLabels=475569&amp;dates=64748B&amp;border_radius=12#gh-light-mode-only" width="100%" alt="GitHub Streak Statistics" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&amp;theme=dark&amp;background=00000000&amp;border=00F0FF&amp;stroke=00F0FF&amp;ring=00F0FF&amp;fire=FF007F&amp;currStreakNum=00F0FF&amp;sideNums=E2E8F0&amp;currStreakLabel=00F0FF&amp;sideLabels=94A3B8&amp;dates=64748B&amp;border_radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&amp;theme=light&amp;background=00000000&amp;border=0284C7&amp;stroke=0284C7&amp;ring=0284C7&amp;fire=0284C7&amp;currStreakNum=0284C7&amp;sideNums=0F172A&amp;currStreakLabel=0284C7&amp;sideLabels=475569&amp;dates=64748B&amp;border_radius=12">
+    <img src="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&amp;theme=dark&amp;background=00000000&amp;border=00F0FF&amp;stroke=00F0FF&amp;ring=00F0FF&amp;fire=FF007F&amp;currStreakNum=00F0FF&amp;sideNums=E2E8F0&amp;currStreakLabel=00F0FF&amp;sideLabels=94A3B8&amp;dates=64748B&amp;border_radius=12" width="100%" alt="GitHub Streak Statistics">
+  </picture>
 </p>
 
 </td>
