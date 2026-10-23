@@ -159,13 +159,9 @@ I'm a full-stack web developer and software architect with a gamer's passion for
 
 ## ⚔️ Skill Tree & Weapon Inventory
 
-<!-- Dual-Theme Vector Tech Icons -->
+<!-- Developer Weapon Inventory Vector Tech Icons -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,mysql,html,css,js,ts,bootstrap,tailwind,react,nodejs,vite,npm,py,c,cpp,git,github,vscode,postman,docker,linux,windows,bash,powershell&amp;perline=12&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,mysql,html,css,js,ts,bootstrap,tailwind,react,nodejs,vite,npm,py,c,cpp,git,github,vscode,postman,docker,linux,windows,bash,powershell&amp;perline=12&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,ts,bootstrap,tailwind,react,nodejs,vite,npm,py,c,cpp,git,github,vscode,postman,docker,linux,windows,bash,powershell&amp;perline=12&amp;theme=dark" alt="Developer Weapon Inventory">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,ts,bootstrap,tailwind,react,nodejs,vite,npm,py,c,cpp,git,github,vscode,postman,docker,linux,windows,bash,powershell&amp;perline=12" alt="Developer Weapon Inventory">
 </p>
 
 #### 🗡️ Primary Weapons (Backend & Architecture)
