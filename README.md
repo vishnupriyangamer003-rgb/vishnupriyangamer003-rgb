@@ -162,17 +162,19 @@ I'm a full-stack web developer and software architect with a gamer's passion for
 <!-- Dual-Theme Vector Tech Icons -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode&amp;theme=dark" alt="Developer Weapon Inventory">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,mysql,html,css,js,ts,bootstrap,tailwind,react,nodejs,vite,npm,py,c,cpp,git,github,vscode,postman,docker,linux,windows,bash,powershell&amp;perline=12&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,mysql,html,css,js,ts,bootstrap,tailwind,react,nodejs,vite,npm,py,c,cpp,git,github,vscode,postman,docker,linux,windows,bash,powershell&amp;perline=12&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,ts,bootstrap,tailwind,react,nodejs,vite,npm,py,c,cpp,git,github,vscode,postman,docker,linux,windows,bash,powershell&amp;perline=12&amp;theme=dark" alt="Developer Weapon Inventory">
   </picture>
 </p>
 
 #### 🗡️ Primary Weapons (Backend & Architecture)
 <p>
-  <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&amp;logo=codeigniter&amp;logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&amp;logo=composer&amp;logoColor=white" alt="Composer" />
 </p>
@@ -180,20 +182,34 @@ I'm a full-stack web developer and software architect with a gamer's passion for
 #### 🛡️ Secondary Gear (Frontend & UI Agility)
 <p>
   <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=0F172A" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3_Grid_Flex-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
 </p>
 
-#### 🔮 Skill Tree Unlocks (In Progress)
+#### 🧰 Tactical Arsenal (Battlestation & DevOps Tools)
 <p>
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=0F172A" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="API Design" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" />
+</p>
+
+#### 🔮 Skill Tree Unlocks & Advanced R&D (BotOS & AI)
+<p>
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C / C++" />
   <img src="https://img.shields.io/badge/AI_Integrations-EC4899?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="AI Integrations" />
   <img src="https://img.shields.io/badge/RAG_Workflows-A855F7?style=for-the-badge&amp;logo=diagram-project&amp;logoColor=white" alt="RAG Workflows" />
+  <img src="https://img.shields.io/badge/BotOS_Action_Bus-00F0FF?style=for-the-badge&amp;logo=probot&amp;logoColor=111827" alt="BotOS Action Bus" />
 </p>
 
 <!-- Dual-Theme Animated Cyber Laser Divider -->

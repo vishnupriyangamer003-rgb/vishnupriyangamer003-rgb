@@ -26,7 +26,7 @@ I'm a web developer who enjoys building practical applications, management syste
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode" alt="PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,ts,bootstrap,tailwind,react,nodejs,vite,npm,py,c,cpp,git,github,vscode,postman,docker,linux,windows,bash,powershell&perline=12" alt="PHP, MySQL, HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, React, Node.js, Vite, npm, Python, C, C++, Git, GitHub, VS Code, Postman, Docker, Linux, Windows, Bash, and PowerShell" />
 </p>
 
 **Exploring:** React · Node.js · AI integrations · RAG workflows
