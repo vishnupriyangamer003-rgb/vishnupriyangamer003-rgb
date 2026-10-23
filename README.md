@@ -1,20 +1,34 @@
 <!-- ==========================================================================
      VISHNUPRIYAN — CYBER-HUD GITHUB PROFILE README
-     Aesthetic: Cyberpunk / Sci-Fi HUD with Animated Yali Guardian & Circuit Telemetry
+     Dual-Theme Engine: Auto-adapts to System Dark / Light Theme on GitHub
+     Aesthetic: Cyberpunk Sci-Fi HUD & Cleanroom Cyber Light Architecture
      ========================================================================== -->
 
+<!-- Dual-Theme Animated Header Waving Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:0F172A,100:00F0FF&text=Vishnupriyan&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=PHP%20Developer%20%7C%20Web%20Applications%20%7C%20AI%20Solutions&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Vishnupriyan — PHP Developer Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:0F172A,100:00F0FF&text=Vishnupriyan&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=PHP%20Developer%20%7C%20Web%20Applications%20%7C%20AI%20Solutions&descColor=00F0FF&descSize=18&descAlignY=60&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,45:E2E8F0,100:0284C7&text=Vishnupriyan&fontColor=0F172A&fontSize=50&fontAlignY=36&desc=PHP%20Developer%20%7C%20Web%20Applications%20%7C%20AI%20Solutions&descColor=0284C7&descSize=18&descAlignY=60&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:0F172A,100:00F0FF&text=Vishnupriyan&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=PHP%20Developer%20%7C%20Web%20Applications%20%7C%20AI%20Solutions&descColor=00F0FF&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Vishnupriyan — PHP Developer Banner">
+  </picture>
 </p>
 
-<!-- Live Animated Typing Terminal Introduction -->
+<!-- Dual-Theme Live Animated Typing Terminal Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+PHP+Full-Stack+Developer+%7C+CodeIgniter+%7C+MySQL;%3E+Architecting+BotOS+%E2%80%94+Action+Layer+for+Atom+AI;%3E+Ancient+Strength+%C3%97+Modern+Technology+%7C+Yali+Philosophy;%3E+Turning+complex+workflows+into+reliable+software" alt="Animated Introduction Stream" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+PHP+Full-Stack+Developer+%7C+CodeIgniter+%7C+MySQL;%3E+Architecting+BotOS+%E2%80%94+Action+Layer+for+Atom+AI;%3E+Ancient+Strength+%C3%97+Modern+Technology+%7C+Yali+Philosophy;%3E+Turning+complex+workflows+into+reliable+software">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0284C7&center=true&vCenter=true&width=750&lines=%3E+PHP+Full-Stack+Developer+%7C+CodeIgniter+%7C+MySQL;%3E+Architecting+BotOS+%E2%80%94+Action+Layer+for+Atom+AI;%3E+Ancient+Strength+%C3%97+Modern+Technology+%7C+Yali+Philosophy;%3E+Turning+complex+workflows+into+reliable+software">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+PHP+Full-Stack+Developer+%7C+CodeIgniter+%7C+MySQL;%3E+Architecting+BotOS+%E2%80%94+Action+Layer+for+Atom+AI;%3E+Ancient+Strength+%C3%97+Modern+Technology+%7C+Yali+Philosophy;%3E+Turning+complex+workflows+into+reliable+software" alt="Animated Introduction Stream">
+  </picture>
 </p>
 
-<!-- Animated Cyber Laser Divider -->
+<!-- Dual-Theme Animated Cyber Laser Divider -->
 <p align="center">
-  <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/cyber_divider.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/cyber_divider_light.svg">
+    <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider">
+  </picture>
 </p>
 
 <!-- Top Hero & Yali Guardian HUD Matrix -->
@@ -25,9 +39,17 @@
       <h1>Vishnupriyan</h1>
       <p>
         <a href="https://github.com/vishnupriyangamer003-rgb">
-          <img src="https://img.shields.io/badge/PHP%20Developer-00F0FF?style=for-the-badge&logo=php&logoColor=030712" alt="PHP Developer" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP%20Developer-00F0FF?style=for-the-badge&logo=php&logoColor=030712">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHP%20Developer-0284C7?style=for-the-badge&logo=php&logoColor=ffffff">
+            <img src="https://img.shields.io/badge/PHP%20Developer-00F0FF?style=for-the-badge&logo=php&logoColor=030712" alt="PHP Developer">
+          </picture>
         </a>
-        <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-10B981?style=for-the-badge" alt="Active Status" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-10B981?style=for-the-badge">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-059669?style=for-the-badge">
+          <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-10B981?style=for-the-badge" alt="Active Status">
+        </picture>
       </p>
       <p>
         <b>&gt; Building Web Applications</b><br>
@@ -45,10 +67,14 @@
     </td>
     <td width="44%" align="center" valign="middle">
       <div align="center">
-        <!-- Animated Radar & Telemetry HUD -->
-        <img src="assets/images/yali_animated_hud.svg" width="100%" alt="Animated Yali Radar HUD" />
+        <!-- Dual-Theme Animated Radar & Telemetry HUD -->
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/images/yali_animated_hud.svg">
+          <source media="(prefers-color-scheme: light)" srcset="assets/images/yali_animated_hud_light.svg">
+          <img src="assets/images/yali_animated_hud.svg" width="100%" alt="Animated Yali Radar HUD">
+        </picture>
         <br><br>
-        <img src="assets/images/yali_guardian.jpg" width="310" alt="Celestial Cyber Yali Guardian" style="border-radius: 12px; max-width: 100%; box-shadow: 0 0 20px rgba(0, 240, 255, 0.4);" />
+        <img src="assets/images/yali_guardian.jpg" width="310" alt="Celestial Cyber Yali Guardian" style="border-radius: 12px; max-width: 100%;" />
       </div>
     </td>
   </tr>
@@ -56,17 +82,45 @@
 
 <!-- Quick HUD Navigation Pills -->
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/👤-About-00F0FF?style=flat-square&logoColor=white" alt="About" /></a>
-  <a href="#️-tech-stack"><img src="https://img.shields.io/badge/⚙️-Skills-00F0FF?style=flat-square" alt="Skills" /></a>
-  <a href="#-featured-project"><img src="https://img.shields.io/badge/📁-Projects-00F0FF?style=flat-square" alt="Projects" /></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/📊-Stats-00F0FF?style=flat-square" alt="Stats" /></a>
-  <a href="#-contribution-activity"><img src="https://img.shields.io/badge/🌱-Journey-00F0FF?style=flat-square" alt="Journey" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/✉️-Connect-00F0FF?style=flat-square" alt="Connect" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/👤-About-00F0FF?style=flat-square&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/👤-About-0284C7?style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/👤-About-00F0FF?style=flat-square&logoColor=white" alt="About">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/⚙️-Skills-00F0FF?style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/⚙️-Skills-0284C7?style=flat-square">
+    <img src="https://img.shields.io/badge/⚙️-Skills-00F0FF?style=flat-square" alt="Skills">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/📁-Projects-00F0FF?style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/📁-Projects-0284C7?style=flat-square">
+    <img src="https://img.shields.io/badge/📁-Projects-00F0FF?style=flat-square" alt="Projects">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/📊-Stats-00F0FF?style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/📊-Stats-0284C7?style=flat-square">
+    <img src="https://img.shields.io/badge/📊-Stats-00F0FF?style=flat-square" alt="Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌱-Journey-00F0FF?style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🌱-Journey-0284C7?style=flat-square">
+    <img src="https://img.shields.io/badge/🌱-Journey-00F0FF?style=flat-square" alt="Journey">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/✉️-Connect-00F0FF?style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/✉️-Connect-0284C7?style=flat-square">
+    <img src="https://img.shields.io/badge/✉️-Connect-00F0FF?style=flat-square" alt="Connect">
+  </picture>
 </p>
 
-<!-- Animated Cyber Laser Divider -->
+<!-- Dual-Theme Animated Cyber Laser Divider -->
 <p align="center">
-  <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/cyber_divider.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/cyber_divider_light.svg">
+    <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider">
+  </picture>
 </p>
 
 ## 👨‍💻 About Me
@@ -90,16 +144,24 @@
         <img src="assets/images/yali_hologram.jpg" width="280" alt="Holographic Yali Wireframe" style="border-radius: 8px; max-width: 100%;" />
         <br>
         <p><sub><em>&ldquo;Ancient Strength &times; Modern Technology&rdquo;</em></sub></p>
-        <!-- Animated Terminal Typing Box -->
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=00F0FF&lines=%3E+Initializing+BotOS+Core...;%3E+Loading+skill+matrix...;%3E+Connecting+action+tools...;%3E+Exploring+RAG+%26+Atom+AI...;%3E+All+systems+nominal.+Ready." alt="BotOS Terminal Output" />
+        <!-- Dual-Theme Animated Terminal Typing Box -->
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=00F0FF&lines=%3E+Initializing+BotOS+Core...;%3E+Loading+skill+matrix...;%3E+Connecting+action+tools...;%3E+Exploring+RAG+%26+Atom+AI...;%3E+All+systems+nominal.+Ready.">
+          <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=0284C7&lines=%3E+Initializing+BotOS+Core...;%3E+Loading+skill+matrix...;%3E+Connecting+action+tools...;%3E+Exploring+RAG+%26+Atom+AI...;%3E+All+systems+nominal.+Ready.">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=00F0FF&lines=%3E+Initializing+BotOS+Core...;%3E+Loading+skill+matrix...;%3E+Connecting+action+tools...;%3E+Exploring+RAG+%26+Atom+AI...;%3E+All+systems+nominal.+Ready." alt="BotOS Terminal Output">
+        </picture>
       </div>
     </td>
   </tr>
 </table>
 
-<!-- Animated Cyber Laser Divider -->
+<!-- Dual-Theme Animated Cyber Laser Divider -->
 <p align="center">
-  <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/cyber_divider.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/cyber_divider_light.svg">
+    <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider">
+  </picture>
 </p>
 
 ## ⚙️ Tech Stack
@@ -127,9 +189,13 @@
   <img src="https://img.shields.io/badge/RAG_Workflows-A855F7?style=for-the-badge&logo=diagram-project&logoColor=white" alt="RAG Workflows" />
 </p>
 
-<!-- Animated Cyber Laser Divider -->
+<!-- Dual-Theme Animated Cyber Laser Divider -->
 <p align="center">
-  <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/cyber_divider.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/cyber_divider_light.svg">
+    <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider">
+  </picture>
 </p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -139,7 +205,11 @@
       <h3>🚀 Featured Project</h3>
       <h4>
         <a href="https://github.com/vishnupriyangamer003-rgb/os-develepement"><b>BotOS / OS Development</b></a>
-        <img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active Status" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Active-10B981?style=flat-square">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Active-059669?style=flat-square">
+          <img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active Status">
+        </picture>
       </h4>
       <p>
         A personal project exploring an action and tool-control layer for Atom AI. The goal is to connect assistant reasoning with structured, useful actions while keeping responsibilities separated and maintainable.
@@ -165,18 +235,30 @@
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Account Statistics" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&theme=default&hide_border=true&rank_icon=github">
+          <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Account Statistics">
+        </picture>
       </p>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="100%" alt="Most Used Languages" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&theme=tokyonight&hide_border=true&langs_count=5">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&theme=default&hide_border=true&langs_count=5">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="100%" alt="Most Used Languages">
+        </picture>
       </p>
     </td>
   </tr>
 </table>
 
-<!-- Animated Cyber Laser Divider -->
+<!-- Dual-Theme Animated Cyber Laser Divider -->
 <p align="center">
-  <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/cyber_divider.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/cyber_divider_light.svg">
+    <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider">
+  </picture>
 </p>
 
 ## 📁 Popular Repositories
@@ -190,7 +272,7 @@
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb">vishnupriyangamer003-rgb</a></b> &nbsp; <code>Public</code><br>
-      <sub>Profile README &middot; GitHub portfolio presentation configuration</sub><br>
+      <sub>Profile README &middot; Dual-theme GitHub portfolio presentation</sub><br>
       🔵 <code>CSS</code>
     </td>
   </tr>
@@ -208,9 +290,13 @@
   </tr>
 </table>
 
-<!-- Animated Cyber Laser Divider -->
+<!-- Dual-Theme Animated Cyber Laser Divider -->
 <p align="center">
-  <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/cyber_divider.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/cyber_divider_light.svg">
+    <img src="assets/images/cyber_divider.svg" width="100%" alt="Cyber Electric Divider">
+  </picture>
 </p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -219,7 +305,11 @@
     <td width="50%" valign="top">
       <h3>📅 Contribution Activity</h3>
       <p align="center">
-        <img src="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Statistics" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=tokyonight&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=default&hide_border=true">
+          <img src="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Statistics">
+        </picture>
       </p>
     </td>
     <!-- Right Column: Connect With Me -->
@@ -227,7 +317,13 @@
       <h3>📬 Connect With Me</h3>
       <p>
         <a href="https://github.com/vishnupriyangamer003-rgb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="https://github.com/vishnupriyangamer003-rgb"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=030712" alt="Portfolio" /></a>
+        <a href="https://github.com/vishnupriyangamer003-rgb">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=030712">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=google-chrome&logoColor=ffffff">
+            <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=030712" alt="Portfolio">
+          </picture>
+        </a>
         <a href="mailto:vishnupriyan@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
       </p>
       <p>
@@ -237,12 +333,16 @@
   </tr>
 </table>
 
-<!-- Animated Footer Wave -->
+<!-- Dual-Theme Animated Footer Wave -->
 <p align="center">
   <b>VISHNUPRIYAN &lt;/&gt; PHP DEVELOPER</b><br>
   <code>CODE &middot; CREATE &middot; AUTOMATE &middot; EXPLORE</code>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00F0FF,50:0F172A,100:030712" width="100%" alt="Cyber wave footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00F0FF,50:0F172A,100:030712">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0284C7,50:E2E8F0,100:F8FAFC">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00F0FF,50:0F172A,100:030712" width="100%" alt="Cyber wave footer">
+  </picture>
 </p>
