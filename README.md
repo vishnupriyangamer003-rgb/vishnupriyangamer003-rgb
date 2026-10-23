@@ -282,21 +282,17 @@ An autonomous action engine and tool-control layer for **Atom AI**. Designed to 
   🟣 <code>PHP</code> &middot; <code>AI Tooling</code>
 </td>
 <td width="50%" valign="top">
-  <b><a href="https://github.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb">vishnupriyangamer003-rgb</a></b> &nbsp; <code>Public Quest</code><br>
-  <sub>Profile Hub &middot; Dual-theme adaptive RGB gaming portfolio presentation</sub><br>
-  🔵 <code>CSS</code> &middot; <code>SVG HUD</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <b><a href="https://github.com/vishnupriyangamer003-rgb/kasi">kasi</a></b> &nbsp; <code>Public Quest</code><br>
-  <sub>Web application &middot; Highly responsive user interface implementation</sub><br>
-  🔵 <code>CSS</code> &middot; <code>JavaScript</code>
-</td>
-<td width="50%" valign="top">
   <b><a href="https://github.com/vishnupriyangamer003-rgb/realtex">realtex</a></b> &nbsp; <code>Public Quest</code><br>
   <sub>Enterprise management system &middot; Relational database integration</sub><br>
   🟣 <code>PHP</code> &middot; <code>MySQL</code>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+  <br>
+  <b><a href="https://github.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb">vishnupriyangamer003-rgb</a></b> &nbsp; <code>Public Quest</code><br>
+  <sub>Profile Hub &middot; Dual-theme adaptive RGB gaming portfolio presentation</sub><br>
+  🔵 <code>CSS</code> &middot; <code>SVG HUD</code>
 </td>
 </tr>
 </table>
