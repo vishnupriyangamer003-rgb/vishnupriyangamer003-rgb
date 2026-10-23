@@ -5,12 +5,12 @@
      Zero Black-Box Glitches: 100% Transparent Adaptive SVGs & Vectors
      ========================================================================== -->
 
-<!-- Dual-Theme Animated Gaming RGB Waving Header Banner -->
+<!-- Dual-Theme Animated Cyberpunk RGB Battlestation Header Banner (Full Package FX & Animations) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,25:1E1B4B,55:7928CA,85:00F0FF,100:FF007F&text=VISHNUPRIYAN&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=LEVEL%2099%20PHP%20DEVELOPER%20%7C%20AI%20SOLUTIONS%20%7C%20GAMER003-RGB&descColor=00F0FF&descSize=16&descAlignY=60&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFFFFF,30:F1F5F9,70:BAE6FD,100:0284C7&text=VISHNUPRIYAN&fontColor=0F172A&fontSize=52&fontAlignY=36&desc=LEVEL%2099%20PHP%20DEVELOPER%20%7C%20AI%20SOLUTIONS%20%7C%20GAMER003-RGB&descColor=0284C7&descSize=16&descAlignY=60&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,25:1E1B4B,55:7928CA,85:00F0FF,100:FF007F&text=VISHNUPRIYAN&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=LEVEL%2099%20PHP%20DEVELOPER%20%7C%20AI%20SOLUTIONS%20%7C%20GAMER003-RGB&descColor=00F0FF&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Vishnupriyan — Gaming HUD Header">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/cyber_header_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/cyber_header_light.svg">
+    <img src="assets/images/cyber_header_dark.svg" width="100%" alt="Vishnupriyan — Cyber HUD Gaming Header">
   </picture>
 </p>
 
@@ -40,8 +40,6 @@
 ```bash
 vishnupriyan@battlestation:~$ ./initialize_profile --gamer-mode=rgb
 ```
-
-# 🎮 Vishnupriyan `[gamer003-rgb]`
 
 <p>
   <picture>

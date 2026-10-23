@@ -1,0 +1,279 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="280" fill="none">
+  <defs>
+    <!-- Light Mode Esports Gradients -->
+    <linearGradient id="mechaBlueViolet" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="35%" stop-color="#7c3aed" />
+      <stop offset="70%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+
+    <linearGradient id="headerBorderLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.9" />
+      <stop offset="30%" stop-color="#7c3aed" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#059669" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="scanlineLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0" />
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="eqBarGradLight" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#7c3aed" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#059669" stop-opacity="0.95" />
+    </linearGradient>
+
+    <filter id="lightGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="lightGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(2, 132, 199, 0.08)" stroke-width="1" />
+      <circle cx="0" cy="0" r="1.5" fill="rgba(2, 132, 199, 0.2)" />
+    </pattern>
+
+    <style>
+      @keyframes glitchTextLight {
+        0%, 100% { transform: translate(0, 0); }
+        2% { transform: translate(-3px, 1px); }
+        4% { transform: translate(3px, -1px); }
+        6% { transform: translate(0, 0); }
+        48% { transform: translate(0, 0); }
+        50% { transform: translate(2px, -2px); }
+        52% { transform: translate(-2px, 1px); }
+        54% { transform: translate(0, 0); }
+      }
+      @keyframes glitchBlue {
+        0%, 100% { transform: translate(0, 0); opacity: 0.6; }
+        2% { transform: translate(-3px, 0); opacity: 0.9; }
+        4% { transform: translate(3px, 0); opacity: 0.6; }
+        6% { transform: translate(0, 0); opacity: 0.6; }
+      }
+      @keyframes glitchViolet {
+        0%, 100% { transform: translate(0, 0); opacity: 0.6; }
+        2% { transform: translate(3px, 0); opacity: 0.9; }
+        4% { transform: translate(-3px, 0); opacity: 0.6; }
+        6% { transform: translate(0, 0); opacity: 0.6; }
+      }
+      @keyframes scanVerticalLight {
+        0% { transform: translateY(-50px); opacity: 0; }
+        20% { opacity: 0.6; }
+        80% { opacity: 0.6; }
+        100% { transform: translateY(320px); opacity: 0; }
+      }
+      @keyframes reticleRotateCW {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes reticleRotateCCW {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      @keyframes pulseBeamLight {
+        0%, 100% { opacity: 0.6; filter: drop-shadow(0 0 3px #0284c7); }
+        50% { opacity: 1; filter: drop-shadow(0 0 10px #0284c7) drop-shadow(0 0 18px #7c3aed); }
+      }
+      @keyframes beaconBlinkLight {
+        0%, 100% { opacity: 0.35; transform: scale(0.9); }
+        50% { opacity: 1; transform: scale(1.15); filter: drop-shadow(0 0 6px #059669); }
+      }
+      @keyframes eqJump1 {
+        0%, 100% { height: 12px; y: 252px; }
+        50% { height: 38px; y: 226px; }
+      }
+      @keyframes eqJump2 {
+        0%, 100% { height: 28px; y: 236px; }
+        50% { height: 8px; y: 256px; }
+      }
+      @keyframes eqJump3 {
+        0%, 100% { height: 18px; y: 246px; }
+        50% { height: 44px; y: 220px; }
+      }
+      @keyframes eqJump4 {
+        0%, 100% { height: 35px; y: 229px; }
+        50% { height: 15px; y: 249px; }
+      }
+
+      .main-title-light {
+        font-family: 'Rajdhani', 'Outfit', 'Segoe UI', 'Impact', sans-serif;
+        font-weight: 900;
+        letter-spacing: 12px;
+        text-anchor: middle;
+      }
+      .mono-txt {
+        font-family: 'Fira Code', 'Courier New', monospace;
+      }
+      .anim-glitch-light { animation: glitchTextLight 4s infinite; }
+      .anim-glitch-blue { animation: glitchBlue 4s infinite; }
+      .anim-glitch-violet { animation: glitchViolet 4s infinite; }
+      .anim-pulse-beam-light { animation: pulseBeamLight 3s ease-in-out infinite; }
+      .anim-beacon-light { animation: beaconBlinkLight 1.4s infinite; }
+      .anim-sweep-light { animation: scanVerticalLight 4s linear infinite; }
+      .spin-cw { transform-origin: 85px 140px; animation: reticleRotateCW 12s linear infinite; }
+      .spin-ccw { transform-origin: 85px 140px; animation: reticleRotateCCW 8s linear infinite; }
+      .spin-cw-r { transform-origin: 915px 140px; animation: reticleRotateCW 12s linear infinite; }
+      .spin-ccw-r { transform-origin: 915px 140px; animation: reticleRotateCCW 8s linear infinite; }
+
+      .eq1 { animation: eqJump1 0.8s ease-in-out infinite alternate; }
+      .eq2 { animation: eqJump2 0.7s ease-in-out infinite alternate; }
+      .eq3 { animation: eqJump3 0.9s ease-in-out infinite alternate; }
+      .eq4 { animation: eqJump4 0.65s ease-in-out infinite alternate; }
+    </style>
+  </defs>
+
+  <!-- Cleanroom White Background Container -->
+  <rect x="2" y="2" width="996" height="276" rx="14" fill="#ffffff" stroke="rgba(226, 232, 240, 0.9)" stroke-width="1" />
+  <!-- Grid Matrix Overlay -->
+  <rect x="2" y="2" width="996" height="276" rx="14" fill="url(#lightGrid)" />
+
+  <!-- Animated Laser Scanline Sweep -->
+  <g class="anim-sweep-light">
+    <rect x="4" y="0" width="992" height="40" fill="url(#scanlineLight)" />
+    <line x1="4" y1="20" x2="996" y2="20" stroke="#0284c7" stroke-width="1.5" stroke-opacity="0.5" />
+  </g>
+
+  <!-- Outer Esports Chamfered Frame -->
+  <path d="M 30 2 L 970 2 L 998 30 L 998 250 L 970 278 L 30 278 L 2 250 L 2 30 Z" 
+        fill="none" stroke="url(#headerBorderLight)" stroke-width="2.2" filter="url(#lightGlow)" />
+
+  <!-- Top-left Chamfer Accent Lines -->
+  <path d="M 12 40 L 40 12" stroke="#0284c7" stroke-width="3" />
+  <path d="M 6 46 L 46 6" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="3 3" />
+  <!-- Top-right Chamfer Accent Lines -->
+  <path d="M 988 40 L 960 12" stroke="#0284c7" stroke-width="3" />
+  <path d="M 994 46 L 954 6" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="3 3" />
+  <!-- Bottom-left Chamfer Accent Lines -->
+  <path d="M 12 240 L 40 268" stroke="#7c3aed" stroke-width="3" />
+  <!-- Bottom-right Chamfer Accent Lines -->
+  <path d="M 988 240 L 960 268" stroke="#0284c7" stroke-width="3" />
+
+  <!-- Top System Telemetry HUD Bar -->
+  <g transform="translate(36, 26)">
+    <text x="0" y="0" class="mono-txt" font-size="11" font-weight="700" fill="#0284c7" letter-spacing="1.5">
+      &gt; CALLSIGN: <tspan fill="#0f172a">vishnupriyangamer003-rgb</tspan> <tspan fill="#7c3aed">|</tspan> <tspan fill="#475569">BATTLESTATION: 4.20GHz</tspan> <tspan fill="#7c3aed">|</tspan> <tspan fill="#d97706">XP: 9,850/10,000</tspan>
+    </text>
+
+    <!-- Top Right Status Beacon -->
+    <g transform="translate(800, -4)">
+      <circle cx="0" cy="0" r="4" fill="#059669" class="anim-beacon-light" />
+      <circle cx="0" cy="0" r="10" stroke="#059669" stroke-width="1" fill="none">
+        <animate attributeName="r" values="4;16" dur="1.8s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0" dur="1.8s" repeatCount="indefinite" />
+      </circle>
+      <text x="14" y="4" class="mono-txt" font-size="10.5" font-weight="700" fill="#059669" letter-spacing="1">
+        LIVE MATRIX: ONLINE
+      </text>
+    </g>
+  </g>
+
+  <!-- Left Rotating HUD Reticle -->
+  <g>
+    <circle cx="85" cy="140" r="48" stroke="rgba(2, 132, 199, 0.2)" stroke-width="1" />
+    <circle cx="85" cy="140" r="38" stroke="#0284c7" stroke-width="1.8" stroke-dasharray="14 8 4 8" class="spin-cw" />
+    <circle cx="85" cy="140" r="26" stroke="#7c3aed" stroke-width="1.4" stroke-dasharray="18 10" class="spin-ccw" />
+    <line x1="85" y1="102" x2="85" y2="178" stroke="rgba(2, 132, 199, 0.3)" stroke-width="1" />
+    <line x1="47" y1="140" x2="123" y2="140" stroke="rgba(2, 132, 199, 0.3)" stroke-width="1" />
+    <circle cx="85" cy="140" r="4" fill="#0284c7" />
+    <rect x="52" y="196" width="66" height="16" rx="4" fill="rgba(2, 132, 199, 0.12)" stroke="#0284c7" stroke-width="1" />
+    <text x="85" y="208" class="mono-txt" font-size="8.5" font-weight="700" fill="#0284c7" text-anchor="middle">LVL 99</text>
+  </g>
+
+  <!-- Right Rotating HUD Reticle -->
+  <g>
+    <circle cx="915" cy="140" r="48" stroke="rgba(124, 58, 237, 0.2)" stroke-width="1" />
+    <circle cx="915" cy="140" r="38" stroke="#7c3aed" stroke-width="1.8" stroke-dasharray="14 8 4 8" class="spin-cw-r" />
+    <circle cx="915" cy="140" r="26" stroke="#0284c7" stroke-width="1.4" stroke-dasharray="18 10" class="spin-ccw-r" />
+    <line x1="915" y1="102" x2="915" y2="178" stroke="rgba(124, 58, 237, 0.3)" stroke-width="1" />
+    <line x1="877" y1="140" x2="953" y2="140" stroke="rgba(124, 58, 237, 0.3)" stroke-width="1" />
+    <circle cx="915" cy="140" r="4" fill="#7c3aed" />
+    <rect x="876" y="196" width="78" height="16" rx="4" fill="rgba(124, 58, 237, 0.12)" stroke="#7c3aed" stroke-width="1" />
+    <text x="915" y="208" class="mono-txt" font-size="8.5" font-weight="700" fill="#7c3aed" text-anchor="middle">TANK CLASS</text>
+  </g>
+
+  <!-- Centerpiece: Glitch Esports Title -->
+  <g transform="translate(500, 118)">
+    <!-- Blue Ghost -->
+    <text x="-4" y="0" class="main-title-light anim-glitch-blue" font-size="58" fill="#0284c7">
+      VISHNUPRIYAN
+    </text>
+    <!-- Violet Ghost -->
+    <text x="4" y="0" class="main-title-light anim-glitch-violet" font-size="58" fill="#7c3aed">
+      VISHNUPRIYAN
+    </text>
+    <!-- Main High-Contrast Text -->
+    <text x="0" y="0" class="main-title-light anim-glitch-light" font-size="58" fill="#0f172a">
+      VISHNUPRIYAN
+    </text>
+
+    <!-- Pulsing Divider -->
+    <g class="anim-pulse-beam-light">
+      <line x1="-320" y1="20" x2="320" y2="20" stroke="url(#mechaBlueViolet)" stroke-width="3" />
+      <polygon points="0,16 -8,20 0,24 8,20" fill="#0284c7" />
+      <circle cx="-160" cy="20" r="3" fill="#0284c7" />
+      <circle cx="160" cy="20" r="3" fill="#7c3aed" />
+    </g>
+
+    <!-- Subtitle Role Stream -->
+    <text x="0" y="44" class="mono-txt" font-size="13.5" font-weight="700" fill="#0284c7" text-anchor="middle" letter-spacing="3.5">
+      LEVEL 99 FULL-STACK DEVELOPER <tspan fill="#7c3aed">&#8226;</tspan> PHP ARCHITECT <tspan fill="#7c3aed">&#8226;</tspan> AI SOLUTIONS
+    </text>
+
+    <!-- Tech & Combat Badges -->
+    <g transform="translate(0, 68)">
+      <g transform="translate(-250, 0)">
+        <rect x="0" y="0" width="145" height="24" rx="5" fill="rgba(124, 58, 237, 0.1)" stroke="#7c3aed" stroke-width="1.2" />
+        <text x="72.5" y="16" class="mono-txt" font-size="10" font-weight="700" fill="#6d28d9" text-anchor="middle">&#9876; BACKEND TANK</text>
+      </g>
+      <g transform="translate(-85, 0)">
+        <rect x="0" y="0" width="170" height="24" rx="5" fill="rgba(2, 132, 199, 0.1)" stroke="#0284c7" stroke-width="1.2" />
+        <text x="85" y="16" class="mono-txt" font-size="10" font-weight="700" fill="#0369a1" text-anchor="middle">&#129302; QUEST: BotOS ACTION BUS</text>
+      </g>
+      <g transform="translate(105, 0)">
+        <rect x="0" y="0" width="145" height="24" rx="5" fill="rgba(5, 150, 105, 0.1)" stroke="#059669" stroke-width="1.2" />
+        <text x="72.5" y="16" class="mono-txt" font-size="10" font-weight="700" fill="#047857" text-anchor="middle">&#128006; YALI PHILOSOPHY</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Bottom Animated Equalizer Audio Visualizer Spectrum -->
+  <g transform="translate(180, 0)">
+    <line x1="0" y1="266" x2="640" y2="266" stroke="rgba(2, 132, 199, 0.25)" stroke-width="1" />
+    
+    <rect x="10"  y="245" width="8" height="20" rx="2" fill="url(#eqBarGradLight)" class="eq1" />
+    <rect x="32"  y="240" width="8" height="25" rx="2" fill="url(#eqBarGradLight)" class="eq2" />
+    <rect x="54"  y="250" width="8" height="15" rx="2" fill="url(#eqBarGradLight)" class="eq3" />
+    <rect x="76"  y="235" width="8" height="30" rx="2" fill="url(#eqBarGradLight)" class="eq4" />
+    <rect x="98"  y="245" width="8" height="20" rx="2" fill="url(#eqBarGradLight)" class="eq1" />
+    <rect x="120" y="230" width="8" height="35" rx="2" fill="url(#eqBarGradLight)" class="eq2" />
+    <rect x="142" y="248" width="8" height="18" rx="2" fill="url(#eqBarGradLight)" class="eq3" />
+    <rect x="164" y="238" width="8" height="28" rx="2" fill="url(#eqBarGradLight)" class="eq4" />
+    <rect x="186" y="245" width="8" height="20" rx="2" fill="url(#eqBarGradLight)" class="eq1" />
+    <rect x="208" y="228" width="8" height="38" rx="2" fill="url(#eqBarGradLight)" class="eq2" />
+    <rect x="230" y="250" width="8" height="16" rx="2" fill="url(#eqBarGradLight)" class="eq3" />
+    <rect x="252" y="235" width="8" height="31" rx="2" fill="url(#eqBarGradLight)" class="eq4" />
+    <rect x="274" y="244" width="8" height="22" rx="2" fill="url(#eqBarGradLight)" class="eq1" />
+    <rect x="296" y="225" width="8" height="41" rx="2" fill="url(#eqBarGradLight)" class="eq2" />
+    <rect x="318" y="225" width="8" height="41" rx="2" fill="url(#eqBarGradLight)" class="eq2" />
+    <rect x="340" y="244" width="8" height="22" rx="2" fill="url(#eqBarGradLight)" class="eq1" />
+    <rect x="362" y="235" width="8" height="31" rx="2" fill="url(#eqBarGradLight)" class="eq4" />
+    <rect x="384" y="250" width="8" height="16" rx="2" fill="url(#eqBarGradLight)" class="eq3" />
+    <rect x="406" y="228" width="8" height="38" rx="2" fill="url(#eqBarGradLight)" class="eq2" />
+    <rect x="428" y="245" width="8" height="20" rx="2" fill="url(#eqBarGradLight)" class="eq1" />
+    <rect x="450" y="238" width="8" height="28" rx="2" fill="url(#eqBarGradLight)" class="eq4" />
+    <rect x="472" y="248" width="8" height="18" rx="2" fill="url(#eqBarGradLight)" class="eq3" />
+    <rect x="494" y="230" width="8" height="35" rx="2" fill="url(#eqBarGradLight)" class="eq2" />
+    <rect x="516" y="245" width="8" height="20" rx="2" fill="url(#eqBarGradLight)" class="eq1" />
+    <rect x="538" y="235" width="8" height="30" rx="2" fill="url(#eqBarGradLight)" class="eq4" />
+    <rect x="560" y="250" width="8" height="15" rx="2" fill="url(#eqBarGradLight)" class="eq3" />
+    <rect x="582" y="240" width="8" height="25" rx="2" fill="url(#eqBarGradLight)" class="eq2" />
+    <rect x="604" y="245" width="8" height="20" rx="2" fill="url(#eqBarGradLight)" class="eq1" />
+  </g>
+</svg>
