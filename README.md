@@ -34,59 +34,66 @@
 
 <!-- Top Hero & Player Profile Battlestation Matrix -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="55%" valign="top">
-      <p><code>vishnupriyan@battlestation:~$ ./initialize_profile --gamer-mode=rgb</code></p>
-      <h1>🎮 Vishnupriyan <small><code>[gamer003-rgb]</code></small></h1>
-      <p>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RANK-LVL%2099%20DEV-00F0FF?style=for-the-badge&logo=riotgames&logoColor=00F0FF">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/RANK-LVL%2099%20DEV-0284C7?style=for-the-badge&logo=riotgames&logoColor=0284C7">
-          <img src="https://img.shields.io/badge/RANK-LVL%2099%20DEV-00F0FF?style=for-the-badge&logo=riotgames&logoColor=00F0FF" alt="Level 99 Developer">
-        </picture>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CLASS-BACKEND%20TANK-7928CA?style=for-the-badge&logo=shield&logoColor=white">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CLASS-BACKEND%20TANK-6366F1?style=for-the-badge&logo=shield&logoColor=white">
-          <img src="https://img.shields.io/badge/CLASS-BACKEND%20TANK-7928CA?style=for-the-badge&logo=shield&logoColor=white" alt="Class Backend Tank">
-        </picture>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-ONLINE%20CO--OP-10B981?style=for-the-badge&logo=target&logoColor=white">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-ONLINE%20CO--OP-059669?style=for-the-badge&logo=target&logoColor=white">
-          <img src="https://img.shields.io/badge/STATUS-ONLINE%20CO--OP-10B981?style=for-the-badge&logo=target&logoColor=white" alt="Online Co-Op Status">
-        </picture>
-      </p>
-      <p>
-        <b>⚔️ Core Mission:</b> Building robust Web Applications &amp; Management Systems<br>
-        <b>🤖 Quest in Progress:</b> BotOS — Action &amp; Tool Orchestration Layer for Atom AI<br>
-        <b>⚡ Playstyle:</b> Clean Code &middot; Modular Architecture &middot; Zero Friction
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-        <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </p>
-      <p><em>&ldquo;Ancient Strength &times; Modern Technology &middot; One Commit At A Time&rdquo;</em></p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <div align="center">
-        <!-- Dual-Theme Animated Gamer HUD Card -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/images/gamer_hud_card_dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/images/gamer_hud_card_light.svg">
-          <img src="assets/images/gamer_hud_card_dark.svg" width="100%" alt="Gamer HUD Telemetry Card">
-        </picture>
-        <br><br>
-        <!-- Dual-Theme Holographic Guardian: Dark Space Guardian vs Cleanroom Mecha Lab -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/images/yali_guardian.jpg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/images/yali_hologram_light.jpg">
-          <img src="assets/images/yali_guardian.jpg" width="310" alt="Celestial Cyber Yali Guardian" style="border-radius: 12px; max-width: 100%;">
-        </picture>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+```bash
+vishnupriyan@battlestation:~$ ./initialize_profile --gamer-mode=rgb
+```
+
+# 🎮 Vishnupriyan `[gamer003-rgb]`
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RANK-LVL%2099%20DEV-00F0FF?style=for-the-badge&logo=riotgames&logoColor=00F0FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/RANK-LVL%2099%20DEV-0284C7?style=for-the-badge&logo=riotgames&logoColor=0284C7">
+    <img src="https://img.shields.io/badge/RANK-LVL%2099%20DEV-00F0FF?style=for-the-badge&logo=riotgames&logoColor=00F0FF" alt="Level 99 Developer">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CLASS-BACKEND%20TANK-7928CA?style=for-the-badge&logo=shield&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CLASS-BACKEND%20TANK-6366F1?style=for-the-badge&logo=shield&logoColor=white">
+    <img src="https://img.shields.io/badge/CLASS-BACKEND%20TANK-7928CA?style=for-the-badge&logo=shield&logoColor=white" alt="Class Backend Tank">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-ONLINE%20CO--OP-10B981?style=for-the-badge&logo=target&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-ONLINE%20CO--OP-059669?style=for-the-badge&logo=target&logoColor=white">
+    <img src="https://img.shields.io/badge/STATUS-ONLINE%20CO--OP-10B981?style=for-the-badge&logo=target&logoColor=white" alt="Online Co-Op Status">
+  </picture>
+</p>
+
+* **⚔️ Core Mission:** Building robust Web Applications &amp; Management Systems
+* **🤖 Quest in Progress:** BotOS — Action &amp; Tool Orchestration Layer for Atom AI
+* **⚡ Playstyle:** Clean Code &middot; Modular Architecture &middot; Zero Friction
+
+<p>
+  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+*“Ancient Strength × Modern Technology · One Commit At A Time”*
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/gamer_hud_card_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/gamer_hud_card_light.svg">
+  <img src="assets/images/gamer_hud_card_dark.svg" width="100%" alt="Gamer HUD Telemetry Card">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/yali_guardian.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/yali_hologram_light.jpg">
+  <img src="assets/images/yali_guardian.jpg" width="310" alt="Celestial Cyber Yali Guardian" style="border-radius: 12px; max-width: 100%;">
+</picture>
+
+</td>
+</tr>
 </table>
 
 <!-- Quick HUD Navigation Pills -->
@@ -135,37 +142,36 @@
 ## 🕹️ Character Lore & Player Bio
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="55%" valign="top">
-      <p>
-        I'm a full-stack web developer and software architect with a gamer's passion for solving challenging puzzles and crafting clean, reliable digital experiences. From building enterprise inventory systems to engineering AI agent tool layers, I treat every project like a raid boss: meticulously planned, cleanly executed, and fully optimized.
-      </p>
-      <ul>
-        <li>🎯 <b>Current Raid Quest:</b> <a href="https://github.com/vishnupriyangamer003-rgb/os-develepement"><b>BotOS</b></a> — an autonomous action &amp; tool orchestration layer for Atom AI</li>
-        <li>⚔️ <b>Primary Weapon (Main Stack):</b> PHP 8.x, CodeIgniter, MySQL, JavaScript, HTML5, CSS3, Bootstrap</li>
-        <li>⚡ <b>Next Skill Tree Unlocks:</b> React, Node.js, REST &amp; GraphQL APIs, RAG Workflows</li>
-        <li>🧰 <b>Battlestation Gear:</b> Git, GitHub, Composer, npm, XAMPP, VS Code</li>
-        <li>🤝 <b>Co-Op Interests:</b> Practical tools, backend architecture, automation pipelines, clean design</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <div align="center">
-        <!-- Dual-Theme Animated Radar & Telemetry HUD -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/images/yali_animated_hud.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/images/yali_animated_hud_light.svg">
-          <img src="assets/images/yali_animated_hud.svg" width="100%" alt="Animated Yali Radar HUD">
-        </picture>
-        <br>
-        <!-- Dual-Theme Live Animated BotOS Terminal Stream -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=00F0FF&lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online.">
-          <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=0284C7&lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online.">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=00F0FF&lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online." alt="BotOS Terminal Output">
-        </picture>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+I'm a full-stack web developer and software architect with a gamer's passion for solving challenging puzzles and crafting clean, reliable digital experiences. From building enterprise inventory systems to engineering AI agent tool layers, I treat every project like a raid boss: meticulously planned, cleanly executed, and fully optimized.
+
+* 🎯 **Current Raid Quest:** [**BotOS**](https://github.com/vishnupriyangamer003-rgb/os-develepement) — an autonomous action &amp; tool orchestration layer for Atom AI
+* ⚔️ **Primary Weapon (Main Stack):** PHP 8.x, CodeIgniter, MySQL, JavaScript, HTML5, CSS3, Bootstrap
+* ⚡ **Next Skill Tree Unlocks:** React, Node.js, REST &amp; GraphQL APIs, RAG Workflows
+* 🧰 **Battlestation Gear:** Git, GitHub, Composer, npm, XAMPP, VS Code
+* 🤝 **Co-Op Interests:** Practical tools, backend architecture, automation pipelines, clean design
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/yali_animated_hud.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/yali_animated_hud_light.svg">
+  <img src="assets/images/yali_animated_hud.svg" width="100%" alt="Animated Yali Radar HUD">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=00F0FF&lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=0284C7&lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=900&color=00F0FF&lines=%3E+Initializing+BotOS+Kernel...;%3E+Allocating+action+bus+memory...;%3E+Connecting+Atom+AI+neural+link...;%3E+Executing+RAG+retrieval+pipeline...;%3E+All+systems+nominal.+100%25+Online." alt="BotOS Terminal Output">
+</picture>
+
+</td>
+</tr>
 </table>
 
 <!-- Dual-Theme Animated Cyber Laser Divider -->
@@ -227,68 +233,65 @@
 
 <!-- Featured Project Quest & GitHub Stats HUD -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- Left Column: Featured Legendary Quest -->
-    <td width="48%" valign="top">
-      <h3>🚀 Legendary Quest: BotOS</h3>
-      <h4>
-        <a href="https://github.com/vishnupriyangamer003-rgb/os-develepement"><b>BotOS / OS Development</b></a>
-        &nbsp;
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DIFFICULTY-EXPERT-FF007F?style=flat-square">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DIFFICULTY-EXPERT-DC2626?style=flat-square">
-          <img src="https://img.shields.io/badge/DIFFICULTY-EXPERT-FF007F?style=flat-square" alt="Difficulty Expert">
-        </picture>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-ACTIVE%20SPRINT-10B981?style=flat-square">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-ACTIVE%20SPRINT-059669?style=flat-square">
-          <img src="https://img.shields.io/badge/STATUS-ACTIVE%20SPRINT-10B981?style=flat-square" alt="Active Sprint">
-        </picture>
-      </h4>
-      <p>
-        An autonomous action engine and tool-control layer for <b>Atom AI</b>. Designed to bridge high-level model reasoning with structured, deterministic real-world actions while enforcing strict memory and execution isolation.
-      </p>
-      <p>
-        <a href="https://github.com/vishnupriyangamer003-rgb/os-develepement"><b>⚔️ Enter Quest Repository &rarr;</b></a>
-      </p>
-      <p>
-        <code>AI Agents</code> &middot; <code>Automation Bus</code> &middot; <code>Action Layers</code> &middot; <code>PHP Core</code>
-      </p>
-      <br>
-      <details>
-        <summary><b>⚡ BotOS Telemetry Diagnostics</b></summary>
-        <p>
-          <code>&gt; CORE_STATUS: ONLINE (CYCLE: 4.20 GHz)</code><br>
-          <code>&gt; MEMORY_MAP: ALLOCATED &amp; VERIFIED</code><br>
-          <code>&gt; ACTION_BUS: LISTENING ON DISPATCH</code><br>
-          <code>&gt; ATOM_AI_LINK: SYNCHRONIZED</code>
-        </p>
-      </details>
-    </td>
+<tr>
+<td width="48%" valign="top">
 
-    <!-- Right Column: GitHub Telemetry & Stats (Transparent - Zero Black Box) -->
-    <td width="52%" valign="top">
-      <h3>📊 GitHub Live Telemetry</h3>
-      <p align="center">
-        <picture>
-          <!-- Dark: 100% Transparent background + Glowing Cyan / Magenta RGB border -->
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&bg_color=00000000&title_color=00F0FF&text_color=E2E8F0&icon_color=FF007F&border_color=00F0FF&border_radius=12&rank_icon=github">
-          <!-- Light: 100% Transparent background + Crisp Cobalt border -->
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&bg_color=00000000&title_color=0284C7&text_color=0F172A&icon_color=0284C7&border_color=0284C7&border_radius=12&rank_icon=github">
-          <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&bg_color=00000000&title_color=00F0FF&text_color=E2E8F0&icon_color=FF007F&border_color=00F0FF&border_radius=12&rank_icon=github" width="100%" alt="GitHub Account Statistics">
-        </picture>
-      </p>
-      <p align="center">
-        <picture>
-          <!-- Dark: 100% Transparent background + Glowing Cyan border -->
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&langs_count=5&bg_color=00000000&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12">
-          <!-- Light: 100% Transparent background + Crisp Cobalt border -->
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&langs_count=5&bg_color=00000000&title_color=0284C7&text_color=0F172A&border_color=0284C7&border_radius=12">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&langs_count=5&bg_color=00000000&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12" width="100%" alt="Most Used Languages">
-        </picture>
-      </p>
-    </td>
-  </tr>
+### 🚀 Legendary Quest: BotOS
+
+<h4>
+  <a href="https://github.com/vishnupriyangamer003-rgb/os-develepement"><b>BotOS / OS Development</b></a>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DIFFICULTY-EXPERT-FF007F?style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DIFFICULTY-EXPERT-DC2626?style=flat-square">
+    <img src="https://img.shields.io/badge/DIFFICULTY-EXPERT-FF007F?style=flat-square" alt="Difficulty Expert">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-ACTIVE%20SPRINT-10B981?style=flat-square">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-ACTIVE%20SPRINT-059669?style=flat-square">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20SPRINT-10B981?style=flat-square" alt="Active Sprint">
+  </picture>
+</h4>
+
+An autonomous action engine and tool-control layer for **Atom AI**. Designed to bridge high-level model reasoning with structured, deterministic real-world actions while enforcing strict memory and execution isolation.
+
+[**⚔️ Enter Quest Repository &rarr;**](https://github.com/vishnupriyangamer003-rgb/os-develepement)
+
+`AI Agents` &middot; `Automation Bus` &middot; `Action Layers` &middot; `PHP Core`
+
+<details>
+  <summary><b>⚡ BotOS Telemetry Diagnostics</b></summary>
+  <p>
+    <code>&gt; CORE_STATUS: ONLINE (CYCLE: 4.20 GHz)</code><br>
+    <code>&gt; MEMORY_MAP: ALLOCATED &amp; VERIFIED</code><br>
+    <code>&gt; ACTION_BUS: LISTENING ON DISPATCH</code><br>
+    <code>&gt; ATOM_AI_LINK: SYNCHRONIZED</code>
+  </p>
+</details>
+
+</td>
+<td width="52%" valign="top">
+
+### 📊 GitHub Live Telemetry
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&bg_color=00000000&title_color=00F0FF&text_color=E2E8F0&icon_color=FF007F&border_color=00F0FF&border_radius=12&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&bg_color=00000000&title_color=0284C7&text_color=0F172A&icon_color=0284C7&border_color=0284C7&border_radius=12&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&bg_color=00000000&title_color=00F0FF&text_color=E2E8F0&icon_color=FF007F&border_color=00F0FF&border_radius=12&rank_icon=github" width="100%" alt="GitHub Account Statistics">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&langs_count=5&bg_color=00000000&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&langs_count=5&bg_color=00000000&title_color=0284C7&text_color=0F172A&border_color=0284C7&border_radius=12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyangamer003-rgb&layout=compact&langs_count=5&bg_color=00000000&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12" width="100%" alt="Most Used Languages">
+  </picture>
+</p>
+
+</td>
+</tr>
 </table>
 
 <!-- Dual-Theme Animated Cyber Laser Divider -->
@@ -303,30 +306,30 @@
 ## 📁 Quest Archives & Popular Repositories
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/vishnupriyangamer003-rgb/os-develepement">os-develepement</a></b> &nbsp; <code>Public Quest</code><br>
-      <sub>Flagship Project &middot; Action and tool orchestration layer for Atom AI</sub><br>
-      🟣 <code>PHP</code> &middot; <code>AI Tooling</code>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb">vishnupriyangamer003-rgb</a></b> &nbsp; <code>Public Quest</code><br>
-      <sub>Profile Hub &middot; Dual-theme adaptive RGB gaming portfolio presentation</sub><br>
-      🔵 <code>CSS</code> &middot; <code>SVG HUD</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/vishnupriyangamer003-rgb/kasi">kasi</a></b> &nbsp; <code>Public Quest</code><br>
-      <sub>Web application &middot; Highly responsive user interface implementation</sub><br>
-      🔵 <code>CSS</code> &middot; <code>JavaScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/vishnupriyangamer003-rgb/realtex">realtex</a></b> &nbsp; <code>Public Quest</code><br>
-      <sub>Enterprise management system &middot; Relational database integration</sub><br>
-      🟣 <code>PHP</code> &middot; <code>MySQL</code>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+  <b><a href="https://github.com/vishnupriyangamer003-rgb/os-develepement">os-develepement</a></b> &nbsp; <code>Public Quest</code><br>
+  <sub>Flagship Project &middot; Action and tool orchestration layer for Atom AI</sub><br>
+  🟣 <code>PHP</code> &middot; <code>AI Tooling</code>
+</td>
+<td width="50%" valign="top">
+  <b><a href="https://github.com/vishnupriyangamer003-rgb/vishnupriyangamer003-rgb">vishnupriyangamer003-rgb</a></b> &nbsp; <code>Public Quest</code><br>
+  <sub>Profile Hub &middot; Dual-theme adaptive RGB gaming portfolio presentation</sub><br>
+  🔵 <code>CSS</code> &middot; <code>SVG HUD</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <b><a href="https://github.com/vishnupriyangamer003-rgb/kasi">kasi</a></b> &nbsp; <code>Public Quest</code><br>
+  <sub>Web application &middot; Highly responsive user interface implementation</sub><br>
+  🔵 <code>CSS</code> &middot; <code>JavaScript</code>
+</td>
+<td width="50%" valign="top">
+  <b><a href="https://github.com/vishnupriyangamer003-rgb/realtex">realtex</a></b> &nbsp; <code>Public Quest</code><br>
+  <sub>Enterprise management system &middot; Relational database integration</sub><br>
+  🟣 <code>PHP</code> &middot; <code>MySQL</code>
+</td>
+</tr>
 </table>
 
 <!-- Dual-Theme Animated Cyber Laser Divider -->
@@ -340,51 +343,50 @@
 
 <!-- Streak & Party Lobby Section -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- Left Column: Contribution Streak (Transparent) -->
-    <td width="50%" valign="top">
-      <h3>🔥 Daily Commit Streak</h3>
-      <p align="center">
-        <picture>
-          <!-- Dark: Transparent background + Neon Cyan & Fire Pink -->
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=dark&background=00000000&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=E2E8F0&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=64748B&border_radius=12">
-          <!-- Light: Transparent background + Cobalt Blue -->
-          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=light&background=00000000&border=0284C7&stroke=0284C7&ring=0284C7&fire=0284C7&currStreakNum=0284C7&sideNums=0F172A&currStreakLabel=0284C7&sideLabels=475569&dates=64748B&border_radius=12">
-          <img src="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=dark&background=00000000&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=E2E8F0&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=64748B&border_radius=12" width="100%" alt="GitHub Streak Statistics">
-        </picture>
-      </p>
-    </td>
+<tr>
+<td width="50%" valign="top">
 
-    <!-- Right Column: Party Lobby / Connect -->
-    <td width="50%" valign="top">
-      <h3>📡 Join The Party / Co-Op Lobby</h3>
-      <p>
-        Looking for a dedicated backend architect or eager to collaborate on AI action tools? Send a party invite:
-      </p>
-      <p>
-        <a href="https://github.com/vishnupriyangamer003-rgb">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-gamer003--rgb-00F0FF?style=for-the-badge&logo=github&logoColor=0D1117">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-gamer003--rgb-0284C7?style=for-the-badge&logo=github&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/GitHub-gamer003--rgb-00F0FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub Profile">
-          </picture>
-        </a>
-        <a href="https://github.com/vishnupriyangamer003-rgb">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-LIVE%20HUD-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-LIVE%20HUD-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white">
-            <img src="https://img.shields.io/badge/Portfolio-LIVE%20HUD-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Live HUD">
-          </picture>
-        </a>
-        <a href="mailto:vishnupriyangamer003@gmail.com">
-          <img src="https://img.shields.io/badge/Email-SEND%20INVITE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" />
-        </a>
-      </p>
-      <p>
-        <em>&ldquo;Build useful things. Level up continuously. Win as a team.&rdquo;</em>
-      </p>
-    </td>
-  </tr>
+### 🔥 Daily Commit Streak
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=dark&background=00000000&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=E2E8F0&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=64748B&border_radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=light&background=00000000&border=0284C7&stroke=0284C7&ring=0284C7&fire=0284C7&currStreakNum=0284C7&sideNums=0F172A&currStreakLabel=0284C7&sideLabels=475569&dates=64748B&border_radius=12">
+    <img src="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=dark&background=00000000&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=E2E8F0&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=64748B&border_radius=12" width="100%" alt="GitHub Streak Statistics">
+  </picture>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Join The Party / Co-Op Lobby
+
+Looking for a dedicated backend architect or eager to collaborate on AI action tools? Send a party invite:
+
+<p>
+  <a href="https://github.com/vishnupriyangamer003-rgb">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-gamer003--rgb-00F0FF?style=for-the-badge&logo=github&logoColor=0D1117">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-gamer003--rgb-0284C7?style=for-the-badge&logo=github&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/GitHub-gamer003--rgb-00F0FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub Profile">
+    </picture>
+  </a>
+  <a href="https://github.com/vishnupriyangamer003-rgb">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-LIVE%20HUD-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-LIVE%20HUD-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white">
+      <img src="https://img.shields.io/badge/Portfolio-LIVE%20HUD-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Live HUD">
+    </picture>
+  </a>
+  <a href="mailto:vishnupriyangamer003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-SEND%20INVITE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" />
+  </a>
+</p>
+
+*“Build useful things. Level up continuously. Win as a team.”*
+
+</td>
+</tr>
 </table>
 
 <!-- Dual-Theme Animated Footer Wave -->
