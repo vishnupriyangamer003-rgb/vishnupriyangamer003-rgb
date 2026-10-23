@@ -103,16 +103,16 @@
 
     <!-- Subtitle Attributes -->
     <text x="0" y="42" font-family="'Fira Code', monospace" font-size="9.5" font-weight="600" fill="#d97706" letter-spacing="1.5">
-      STRENGTH &middot; WISDOM &middot; PROTECTION &middot; INNOVATION
+      STRENGTH &#183; WISDOM &#183; PROTECTION &#183; INNOVATION
     </text>
 
     <!-- Telemetry Data Rows -->
     <text x="0" y="64" font-family="'Fira Code', monospace" font-size="10" fill="#475569">
-      CORE: <tspan fill="#0284c7" font-weight="bold">ACTIVE</tspan> &nbsp;|&nbsp; FREQ: <tspan class="data-glow-light" font-weight="bold">4.20 GHz</tspan> &nbsp;|&nbsp; BOTOS: <tspan fill="#059669" font-weight="bold">SYNCHRONIZED</tspan>
+      CORE: <tspan fill="#0284c7" font-weight="bold">ACTIVE</tspan> | FREQ: <tspan class="data-glow-light" font-weight="bold">4.20 GHz</tspan> | BOTOS: <tspan fill="#059669" font-weight="bold">SYNCHRONIZED</tspan>
     </text>
 
     <text x="0" y="82" font-family="'Fira Code', monospace" font-size="9.5" fill="#64748b" letter-spacing="0.8">
-      &gt; "Ancient Strength &times; Modern Technology"
+      &gt; "Ancient Strength &#215; Modern Technology"
     </text>
   </g>
 

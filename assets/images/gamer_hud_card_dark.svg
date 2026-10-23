@@ -159,7 +159,7 @@
 
     <!-- Quest Status / Philosophy -->
     <text x="0" y="128" font-family="'Fira Code', monospace" font-size="9" fill="#64748b">
-      &gt; MAIN QUEST: <tspan fill="#00f0ff" font-weight="bold">BotOS Atom AI Action Engine</tspan> &middot; PASSIVE: <tspan fill="#f59e0b">Yali Guardian</tspan>
+      &gt; MAIN QUEST: <tspan fill="#00f0ff" font-weight="bold">BotOS Atom AI Action Engine</tspan> &#183; PASSIVE: <tspan fill="#f59e0b">Yali Guardian</tspan>
     </text>
   </g>
 </svg>
