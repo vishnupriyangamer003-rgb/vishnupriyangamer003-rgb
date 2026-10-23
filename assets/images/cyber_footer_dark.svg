@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="100%" height="120" fill="none">
+  <defs>
+    <linearGradient id="footerWaveGradDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff007f" stop-opacity="0.9" />
+      <stop offset="35%" stop-color="#7928ca" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#00f0ff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#070a14" stop-opacity="1" />
+    </linearGradient>
+
+    <linearGradient id="footerGlowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="50%" stop-color="#ff007f" />
+      <stop offset="100%" stop-color="#00f0ff" />
+    </linearGradient>
+
+    <filter id="waveGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes footerWaveFlow {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-4px); }
+      }
+      @keyframes footerPulse {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; }
+      }
+      .anim-wave { animation: footerWaveFlow 4s ease-in-out infinite; }
+      .anim-pulse { animation: footerPulse 2.5s ease-in-out infinite; }
+      .footer-txt {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <!-- Cyber Wave Fill -->
+  <path d="M 0 45 Q 250 5 500 40 T 1000 30 L 1000 120 L 0 120 Z" fill="url(#footerWaveGradDark)" opacity="0.35" class="anim-wave" />
+  <path d="M 0 55 Q 250 85 500 50 T 1000 60 L 1000 120 L 0 120 Z" fill="#070a14" opacity="0.8" />
+  
+  <!-- Glowing Neon Wave Beam -->
+  <path d="M 0 50 Q 250 15 500 45 T 1000 35" stroke="url(#footerGlowLine)" stroke-width="2.5" fill="none" filter="url(#waveGlow)" class="anim-pulse" />
+
+  <!-- Bottom Data Baseline -->
+  <line x1="100" y1="95" x2="900" y2="95" stroke="rgba(0, 240, 255, 0.2)" stroke-width="1" />
+  <circle cx="500" cy="95" r="4" fill="#00f0ff" />
+  <circle cx="300" cy="95" r="2.5" fill="#7928ca" />
+  <circle cx="700" cy="95" r="2.5" fill="#ff007f" />
+
+  <!-- Transmission Text -->
+  <text x="500" y="82" fill="#00f0ff" class="footer-txt">
+    &gt;&gt; TRANSMISSION COMPLETE // LEVEL 99 FULL-STACK DEVELOPER // GAMER003-RGB &lt;&lt;
+  </text>
+</svg>

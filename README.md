@@ -387,7 +387,7 @@ Looking for a dedicated backend architect or eager to collaborate on AI action t
 </tr>
 </table>
 
-<!-- Dual-Theme Animated Footer Wave -->
+<!-- Dual-Theme Animated Cyber Laser Footer Wave -->
 <p align="center">
   <b>VISHNUPRIYAN // GAMER003-RGB &lt;/&gt; LEVEL 99 FULL-STACK DEVELOPER</b><br>
   <code>CODE &middot; CREATE &middot; AUTOMATE &middot; EXPLORE &middot; CONQUER</code>
@@ -395,8 +395,9 @@ Looking for a dedicated backend architect or eager to collaborate on AI action t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF007F,35:7928CA,70:00F0FF,100:0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0284C7,45:BAE6FD,80:F1F5F9,100:FFFFFF">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF007F,35:7928CA,70:00F0FF,100:0D1117" width="100%" alt="Cyber Wave Footer">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/cyber_footer_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/cyber_footer_light.svg">
+    <img src="assets/images/cyber_footer_dark.svg" width="100%" alt="Cyber Laser Wave Footer">
   </picture>
 </p>
+
