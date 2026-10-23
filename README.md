@@ -1,28 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:312E81,100:0891B2&text=Vishnupriyan&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=PHP%20Developer%20%7C%20Web%20Apps%20%7C%20AI%20Tools&descSize=18&descAlignY=59&animation=fadeIn" width="100%" alt="Vishnupriyan — PHP Developer, Web Apps, and AI Tools" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,45:0F172A,100:00F0FF&text=Vishnupriyan&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=PHP%20Developer%20%7C%20Web%20Apps%20%7C%20AI%20Solutions&descSize=18&descAlignY=59&animation=fadeIn" width="100%" alt="Vishnupriyan — PHP Developer, Web Apps, and AI Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=PHP+Full-Stack+Developer;CodeIgniter+%7C+MySQL+%7C+JavaScript;Building+BotOS+%26+Atom+AI;Turning+ideas+into+working+software" alt="Animated introduction: PHP Full-Stack Developer, CodeIgniter, MySQL, JavaScript, BotOS, and Atom AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=PHP+Full-Stack+Developer;CodeIgniter+%7C+MySQL+%7C+JavaScript;Building+BotOS+%26+Atom+AI;Ancient+Strength+%C3%97+Modern+Technology" alt="Animated introduction: PHP Full-Stack Developer, CodeIgniter, MySQL, JavaScript, BotOS, and Atom AI" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishnupriyangamer003-rgb"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" /></a>
-  <img src="https://img.shields.io/badge/Focus-Build%20and%20Learn-0891B2?style=for-the-badge&logo=target" alt="Focus: build and learn" />
-  <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP and MySQL stack" />
+  <a href="https://github.com/vishnupriyangamer003-rgb"><img src="https://img.shields.io/badge/GitHub-Follow-00f0ff?style=for-the-badge&logo=github&logoColor=030712" alt="Visit my GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/Mascot-YALI%20Guardian-f59e0b?style=for-the-badge&logo=shield" alt="Yali Guardian: Strength, Wisdom, Protection, Innovation" />
+  <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL%20%7C%20JS-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP and MySQL stack" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🦁 About Me · The Yali Philosophy
+> *"Ancient Strength × Modern Technology"*
 
-I'm **Vishnupriyan**, a PHP developer who enjoys building practical web applications, management systems, and developer tools. I'm also exploring how AI assistants can connect to software tools through a structured action layer.
+I'm **Vishnupriyan**, a PHP developer who builds practical web applications, management systems, and developer tools that solve real problems. Guided by the spirit of the **Yali**—symbolizing **Strength, Wisdom, Protection, and Innovation**—I focus on writing reliable code and exploring structured action layers for modern AI assistants.
 
-- 🔭 **Building now:** BotOS — an action layer for my personal Atom AI assistant
-- 💻 **Core stack:** PHP, CodeIgniter, MySQL, JavaScript, HTML, CSS, and Bootstrap
-- 🌱 **Learning:** React, Node.js, API design, and retrieval-augmented generation (RAG)
-- 🧰 **Tools I use:** Git, GitHub, Composer, npm, and XAMPP
+- 🔭 **Building now:** **BotOS** — an action and tool-control layer for Atom AI
+- 💻 **Main stack:** PHP, CodeIgniter, MySQL, JavaScript, HTML5, CSS3, and Bootstrap
+- 🌱 **Learning next:** React, Node.js, API design, and retrieval-augmented generation (RAG)
+- 🧰 **Daily tools:** Git, GitHub, Composer, npm, and XAMPP
 - 🎯 **My approach:** Build useful features, keep code maintainable, and improve one commit at a time
+
+---
 
 ## ⚡ Tech Stack
 
@@ -31,11 +34,24 @@ I'm **Vishnupriyan**, a PHP developer who enjoys building practical web applicat
 </p>
 
 <p align="center">
-  <strong>Currently exploring</strong><br />
-  React · Node.js · AI integrations · RAG workflows
+  <strong>Exploring Next</strong><br />
+  React · Node.js · API Design · AI Integrations · RAG Workflows
 </p>
 
+---
+
 ## 🚀 Featured Project
+
+### 🤖 [BotOS / OS Development](https://github.com/vishnupriyangamer003-rgb/os-develepement)
+
+A personal project exploring how an AI assistant can connect reasoning with structured tools and actions. The goal is to keep responsibilities clear and the implementation maintainable while the project evolves.
+
+```text
+> Initializing BotOS...
+> System: ACTIVE
+> Target: Atom AI Integration Layer
+> Status: Under active iteration
+```
 
 <p align="center">
   <a href="https://github.com/vishnupriyangamer003-rgb/os-develepement">
@@ -43,15 +59,9 @@ I'm **Vishnupriyan**, a PHP developer who enjoys building practical web applicat
   </a>
 </p>
 
-### BotOS · OS Development
+---
 
-A personal project exploring how an AI assistant can connect reasoning with structured tools and actions. The goal is to keep responsibilities clear and the implementation maintainable while the project evolves.
-
-<p align="center">
-  <a href="https://github.com/vishnupriyangamer003-rgb/os-develepement">Explore the repository →</a>
-</p>
-
-## 📊 GitHub at a Glance
+## 📊 GitHub Telemetry & Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnupriyangamer003-rgb&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub account statistics" />
@@ -62,13 +72,15 @@ A personal project exploring how an AI assistant can connect reasoning with stru
   <img src="https://streak-stats.demolab.com?user=vishnupriyangamer003-rgb&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics" width="75%" />
 </p>
 
+---
+
 ## 🧭 How I Build
 
 <table>
   <tr>
     <td align="center" width="33%">
       <strong>🧩 Focus</strong><br />
-      Small, useful features
+      Practical, useful tools
     </td>
     <td align="center" width="33%">
       <strong>🌿 Workflow</strong><br />
@@ -76,20 +88,23 @@ A personal project exploring how an AI assistant can connect reasoning with stru
     </td>
     <td align="center" width="33%">
       <strong>🔐 Quality</strong><br />
-      Protect secrets and test changes
+      Clean security and tested logic
     </td>
   </tr>
 </table>
 
+---
+
 ## 🤝 Let's Connect
 
-I'm interested in practical web-development projects, automation, AI tools, and learning through building.
+I'm interested in practical web development, automation, AI tools, and learning through building.
 
 <p align="center">
   <a href="https://github.com/vishnupriyangamer003-rgb"><img src="https://img.shields.io/badge/GitHub-vishnupriyangamer003--rgb-181717?style=for-the-badge&logo=github" alt="Visit Vishnupriyan on GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891B2,55:312E81,100:0B1020" width="100%" alt="Decorative blue and violet footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00F0FF,50:0F172A,100:030712" width="100%" alt="Decorative cyan and dark navy footer wave" />
+  <br />
   <em>Build useful things. Keep learning. Improve one commit at a time.</em>
 </p>
